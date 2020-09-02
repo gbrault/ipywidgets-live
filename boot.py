@@ -1,0 +1,1 @@
+https://github.com/gbrault/ipywidgets-live.git
