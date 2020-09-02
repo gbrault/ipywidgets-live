@@ -1,1 +1,1 @@
-https://github.com/gbrault/ipywidgets-live.git
+print("just to trigger 'source' when opening terminal in visual studio code")
